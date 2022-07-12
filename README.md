@@ -1,4 +1,6 @@
 # OOP-Sports-Game-Ticket-Reservation-System
+Sports Game Ticket Reservation System is an application that helps sports’ fans to 
+reserve their places in their favorite games (national or international).
 The System includes: 
 • A Game has a unique generated code, location (stadium name), date, number of  seats in each category …etc. 
 • A Seat has a number and price depending on its location whether in 1st category,  2nd Category or 3rd Category. 
